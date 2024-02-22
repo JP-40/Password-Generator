@@ -23,7 +23,7 @@ def PasswordGenerationFunction():
 
 #window
 window = tk.Tk()
-window.title('Password Generator made by JP-40')
+window.title('Password Generator by JP-40')
 window.geometry('450x250')
 
 #Title
